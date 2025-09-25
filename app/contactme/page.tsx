@@ -18,7 +18,7 @@ export default function ContactMePage() {
           <span className="text-white">Contact </span>
           <span className="text-orange-500">Me</span>
         </h3>
-        <h2 className="mb-8 text-4xl font-base">Let's get in touch!</h2>
+        <h2 className="mb-8 text-4xl font-base">Let&apos;s get in touch!</h2>
 
         <form className="grid grid-cols-2 gap-x-8 gap-y-6">
 
