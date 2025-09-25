@@ -33,7 +33,7 @@ export default function ProjectPage() {
           TailwindCSS on the front-end. Watch the video to see the responsive
           landing page in action!
         </p>
-        <div className="w-[95%] max-w-6xl ml-0"> 
+        <div className="w-[80%] max-w-6xl ml-0"> 
         
           <Swiper
             modules={[Pagination, Autoplay]}
