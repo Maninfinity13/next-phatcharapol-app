@@ -19,7 +19,7 @@ const SkillCard: React.FC<SkillCardProps> = ({
 }) => {
   const [hover, setHover] = useState(false);
 
-  const width = 150;
+  const width = 225;
   const height = 300;
   const stroke = 3;
   const rx = width / 2;
