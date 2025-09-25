@@ -22,9 +22,9 @@ export default function Sidebar() {
     { icon: faUser, name: "User", href: "/aboutme" },
     { icon: faBook, name: "Book", href: "/eduexp" },
     { icon: faList, name: "List", href: "/spec" },
-    { icon: faBriefcase, name: "Briefcase", href: "/project" },
-    { icon: faEnvelope, name: "Envelope", href: "/skill" },
-    { icon: faMessage, name: "Message", href: "/contact" },
+    { icon: faBriefcase, name: "Briefcase", href: "/projects" },
+    { icon: faEnvelope, name: "Envelope", href: "/skills" },
+    { icon: faMessage, name: "Message", href: "/contactme" },
   ];
 
   return (

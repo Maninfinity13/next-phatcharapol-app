@@ -6,7 +6,7 @@ import Sidebar from "@/components/sidebar";
 export default function HomePage() {
   return (
     <div className="flex min-h-screen bg-[#1E1E1E] text-white">
-      {/* Left Card */}
+      
       <div className="flex flex-col items-center justify-center p-8 bg-[#1F1F1F] w-1/4">
         <CardProfile />
       </div>
@@ -40,7 +40,7 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* Right Sidebar */}
+  
       <div className="w-1/12 flex justify-end">
         <Sidebar />
       </div>
